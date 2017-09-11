@@ -12,3 +12,4 @@ In this Github, there are two projects:
 1. This problem modeled as sequence prediction problem. Therefore, the RNN deep learning network was deployed
 2. To overcome sparsity, auto-encoder was used. The dataset and its feature vector was large 
 3. The performance was measured by recall, precision and F1 score.
+Please read the paper: Temporal Behavioral Modeling for Recommendation A Deep Learning Approach_v2.pdf 
