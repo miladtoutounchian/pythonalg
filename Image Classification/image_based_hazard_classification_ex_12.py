@@ -22,6 +22,10 @@ from sklearn.metrics import confusion_matrix
 import urllib3
 import cv2
 import smart_open
+import os
+
+os.environ["AWS_ACCESS_KEY_ID"] = "AKIAJ4E6ASAVWAXLC4EQ"
+os.environ["AWS_SECRET_ACCESS_KEY"] = "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"
 
 
 def augment_brightness_camera_images(image):
